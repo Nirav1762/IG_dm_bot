@@ -4,3 +4,6 @@ a profile is not available and a warmup feature where bot scrolls through reel s
 
 Moreover, since this bot works directly on computer's gui, it can bypass autmation detections since libraries like selenium directly select web elements, this bot works on computer's gui and can in no way shape or form be
 detected as an autmation bot.
+
+*NOTE* 
+Since this bot uses computer's gui, it works based off screen coordinates hich naturally are different for different computers, hence, for each computer, coordinates will have to be changed for the bot to work. Additionally, for mac users, due to retina display's upscaling nature, coordinates will have to be divided by a certain number for them to be accurate.
